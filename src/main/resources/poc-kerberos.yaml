@@ -1,0 +1,13 @@
+nmls:
+  host: ""
+  port: ""
+  user: ""
+  password: ""
+  database: ""
+  query: ""
+
+onbase:
+  username: ""
+  password: ""
+  url: ""
+  
